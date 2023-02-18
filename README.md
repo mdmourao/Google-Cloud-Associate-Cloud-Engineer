@@ -4,6 +4,8 @@ Google Cloud Associate Cloud Engineer certification is focused on the fundamenta
 
 Notes taken during certification!  
 
+Cert: https://www.udemy.com/certificate/UC-1f85356b-1035-4afa-925c-06961c19412a/
+
 # Refs Price
 
 https://cloud.google.com/products/calculator  
