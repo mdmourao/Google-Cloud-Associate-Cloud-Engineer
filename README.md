@@ -1,8 +1,8 @@
-# Google Cloud Certification
+# Google Cloud Certification 🚀🚀🚀🚀🚀
 
 Google Cloud Associate Cloud Engineer certification is focused on the fundamental skills of deploying, monitoring, and maintaining projects on Google Cloud.
 
-Notes from my certification classes on Udemy!  
+Notes taken during certification!  
 
 # Refs Price
 
@@ -65,3 +65,4 @@ Saturation
 
 
 🚀🚀🚀🚀🚀
+Martim Mourão 2023
