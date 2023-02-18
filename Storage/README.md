@@ -32,5 +32,12 @@ Used to share files between VM instances
 Storage
 
 Can be used to save images, ...
+We SHOULD define object lifecycle rules to save money - (nearline, coldline, delete)
 
 # Object System
+
+# Memorystore
+
+Cloud Memorystore for Redis is a fully managed Redis service for the Google Cloud Platform.  
+
+
